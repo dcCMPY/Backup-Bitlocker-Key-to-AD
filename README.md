@@ -1,4 +1,2 @@
-# bdeadbackup
-bitlocker encryption backup recovery key to ad script
-
-powershell wrapper script which can be used as startup script in a GPO
+# Backup Bitlocker key to AD
+PowerShell script used as startup script to reference vbs script
